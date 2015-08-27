@@ -10,36 +10,36 @@ Then to pull:
 
 ### Main Page/Main Features/Usage
 
-"Collaboration Station" Ideas looking for collaborators - Kristin & Taneshia  
-Badges/Stickers!!! participation page (could the users create and upload these)  
-Encouragement Section  
-Announcements newsfeed style  
-Blog  
-"Tool Box" Resources/Tools  
+* "Collaboration Station" Ideas looking for collaborators - Kristin & Taneshia 
+* Badges/Stickers!!! participation page (could the users create and upload these)  
+* Encouragement Section  
+* Announcements newsfeed style  
+* Blog  
+* "Tool Box" Resources/Tools  
 
 #### MAIN PAGE
 styled like a dashboard
 
 #### USER
-	username
-	password
-	email
+	* username  
+	* password  
+	* email  
 future phase (security & approvals)
 
 #### PROFILE INFO
-	badges earned
-	projects
-	feed of your activity
-	picture/avatar
-	general location (neighborhoods)
+	* badges earned
+	* projects
+	* feed of your activity
+	* picture/avatar
+	* general location (neighborhoods)
 
 #### APP NOTIFICATIONS
-	send welcome email when you sign-up
-	notifications
+	* send welcome email when you sign-up
+	* notifications
 	
 
-admin rights
-building a database
-log stuff
-like
-leave comments
+* admin rights
+* building a database
+* log stuff
+* like
+* leave comments
