@@ -34,11 +34,11 @@ future phase (security & approvals)
 * general location (neighborhoods)
 
 #### APP NOTIFICATIONS
-* send welcome email when you sign-up  
+* send welcome email when you sign-up
 * notifications
 	
 
-* admin rights  
+* admin rights
 * building a database  
 * log stuff  
 * like  
