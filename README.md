@@ -20,10 +20,10 @@ Then to pull:
 8. Messaging
 9. Email Notification
 10. User Profile - @fleeree2013
-* username  
-* password  
-* email  
-future phase (security & approvals)
+  * username  
+  * password  
+  * email  
+  future phase (security & approvals)
 
 #### Notes from meeting:
 MAIN PAGE  
