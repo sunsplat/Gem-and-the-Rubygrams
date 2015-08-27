@@ -21,25 +21,25 @@ Then to pull:
 styled like a dashboard
 
 #### USER
-	* username  
-	* password  
-	* email  
+* username  
+* password  
+* email  
 future phase (security & approvals)
 
 #### PROFILE INFO
-	* badges earned
-	* projects
-	* feed of your activity
-	* picture/avatar
-	* general location (neighborhoods)
+* badges earned  
+* projects  
+* feed of your activity  
+* picture/avatar  
+* general location (neighborhoods)
 
 #### APP NOTIFICATIONS
-	* send welcome email when you sign-up
-	* notifications
+* send welcome email when you sign-up  
+* notifications
 	
 
-* admin rights
-* building a database
-* log stuff
-* like
+* admin rights  
+* building a database  
+* log stuff  
+* like  
 * leave comments
