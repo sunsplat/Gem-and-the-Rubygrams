@@ -37,7 +37,7 @@ future phase (security & approvals)
 * send welcome email when you sign-up
 * notifications
 	
-
+---------------------------
 * admin rights
 * building a database  
 * log stuff  
